@@ -1,0 +1,27 @@
+# Binaries
+ghost-protocol
+ghost-protocol.exe
+
+# Config with real secrets — copy config.example.json and fill in your keys
+config.json
+
+# SQLite database (runtime data, not source)
+*.db
+*.db-shm
+*.db-wal
+
+# Go build artifacts
+*.o
+*.a
+*.so
+
+# Go test cache
+/vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
