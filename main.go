@@ -27,7 +27,7 @@ const banner = `
   ██║░░░░░██║░░██║╚█████╔╝░░░██║░░░╚█████╔╝╚█████╔╝╚█████╔╝███████╗
   ╚═╝░░░░░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░░╚════╝░░╚════╝░░╚════╝░╚══════╝
 
-  v1.0  ·  Local LLM Reverse Proxy  ·  github.com/deeyeti/ghost-protocol
+  v1.0  ·  Local LLM Reverse Proxy  ·  github.com/deeyeti/ghost-protoco
 `
 
 func main() {
