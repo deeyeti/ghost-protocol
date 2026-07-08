@@ -93,7 +93,7 @@ ghost-protocol/
 
 ## Response Headers
 
-Ghost Protocol adds diagnostic headers to every response:
+Ghost Protocol auto adds diagnostic headers to every response:
 
 | Header | Values |
 |---|---|
