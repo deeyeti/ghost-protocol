@@ -33,7 +33,7 @@
 ## Prerequisites
 
 - **Go ≥ 1.21** — [go.dev/dl](https://go.dev/dl/)
-- **Ollama** running locally with:
+- **Ollama** running locally with (and more):
   ```bash
   ollama pull llama3
   ollama pull nomic-embed-text
